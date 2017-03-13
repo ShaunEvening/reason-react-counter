@@ -1,10 +1,18 @@
-# Counter with `reasonml/rehydrate`
+<p align="center">
+  <img src="http://i.imgur.com/49C0QB7.png" width="35%"/>
+</p>
+<h1 align="center">
+  `reasonml/rehydrate` Counter App
+</h1>
 
-This is a sample counter application written in React with [`reasonml/rehydrate`](https://github.com/reasonml/rehydrate)
+<p align="center">
+This is a react counter application written with [`reasonml/rehydrate`](https://github.com/reasonml/rehydrate).
+Please keep in mind that rehydrate is still in the works and is subject to a lot of change. I will try to keep this as up to date as possible so bare with me.
+</p>
 
 ## Setup
 
-_**NOTE:**_ As a prerequisite, you'll need to install version 1.7+ of [ninja](https://ninja-build.org/).
+**prerequisite:** you'll need to install version 1.7+ of [ninja](https://ninja-build.org/).
 This can be done via brew by running `brew install ninja` on MacOS.
 
 ```sh
