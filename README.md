@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-This is a react counter application written with [`reasonml/rehydrate`](https://github.com/reasonml/rehydrate).
+This is a react counter application written with <a href="https://github.com/reasonml/rehydrate">reasonml/rehydrate</a>.
 Please keep in mind that rehydrate is still in the works and is subject to a lot of change. I will try to keep this as up to date as possible so bare with me.
 </p>
 
