@@ -1,0 +1,58 @@
+html, body {
+  margin: 0;
+  font-family: monospace;
+  background: #EEEEEE;
+}
+
+.counter-card {
+  padding: 20px 25px;
+  margin: 0.5rem 0.5rem 1rem 0.5rem;
+  background: #FFF;
+  display: inline-flex;
+  flex-direction: column;
+  border-radius: 2px;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.10), 0 1px 10px 0 rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.26);
+  text-align: center;
+}
+
+.counter-card-title {
+  font-size: 24px;
+  color: #37474F;
+}
+
+.positive {
+  color: #4CAF50;
+}
+
+.negative {
+  color: #f44336;
+}
+
+.button-group {
+  margin-bottom: 20px;
+}
+
+button.btn {
+  border: none;
+  height: 36px;
+  line-height: 36px;
+  padding: 0 2rem;
+  border-radius: 2px;
+  margin: 0 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+button.btn:focus {
+  outline: none;
+}
+
+button.btn.btn-red {
+  color: white;
+  background: #f44336;
+}
+
+button.btn.btn-green {
+  color: white;
+  background: #4CAF50;
+}
