@@ -2,7 +2,7 @@
   <img src="http://i.imgur.com/49C0QB7.png" width="35%"/>
 </p>
 <h1 align="center">
-  `reasonml/rehydrate` Counter App
+  reasonml/rehydrate Counter App
 </h1>
 
 <p align="center">
