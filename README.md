@@ -2,11 +2,11 @@
   <img src="http://i.imgur.com/49C0QB7.png" width="35%"/>
 </p>
 <h1 align="center">
-  reasonml/rehydrate Counter App
+  reason-react Counter App
 </h1>
 
 <p align="center">
-This is a react counter application written with <a href="https://github.com/reasonml/rehydrate">reasonml/rehydrate</a>.
+This is a react counter application written with <a href="https://github.com/reasonml/rehydrate">reason-react</a>.
 Please keep in mind that rehydrate is still in the works and is subject to a lot of change. I will try to keep this as up to date as possible so bare with me.
 </p>
 
